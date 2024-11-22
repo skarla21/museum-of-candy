@@ -24,7 +24,7 @@ Welcome to the **Museum of Candy**, a simple experimental HTML/CSS project. This
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/museum-of-candy.git
+   git clone https://github.com/skarla21/museum-of-candy.git
    cd museum-of-candy
    ```
 2. **Open index.html in your browser:**
